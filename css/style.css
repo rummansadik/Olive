@@ -1,0 +1,124 @@
+.bg-main{
+	background : #BF964B;
+}
+
+
+.my-nav{
+	background-color: #736C4D;
+}
+.navbar-toggler {
+	border: none !important;
+}
+.navbar container{
+	height: 183px;
+	width: 100%;
+}
+.navbar-nav{
+	font-size: 20pt;
+}
+.nav-item{
+	padding: 20px;
+}
+
+
+header{
+	background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('../images/bg.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding-top: 183px;
+	padding-bottom: 150px;
+}
+.bg-content{
+	position: relative;
+}
+.fnt-header{
+	font-size: 30pt;
+}
+.fnt-header2{
+	font-size: 50pt;
+}
+.btn-book{
+	position: absolute;
+	right: 0px;
+	top: 100px;
+	padding: 10px 30px;
+	background-color: rgb(191, 150, 75);
+	color: #fff;
+}
+
+
+.bg-about{
+	background: url('../images/grp-2(1).png');
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-top: 190px;
+	padding-bottom: 190px;
+}
+.fnt-about{
+	font-size: 35pt;
+}
+.fnt-about2{
+	font-size: 15pt;
+}
+
+
+.bg-think{
+	background-color: #736C4D;
+	padding: 100px 150px;
+}
+.img-think{
+	background: url('../images/grp-3(1).png');
+	height: 448px;
+	width: 400px;
+}
+.content-think{
+	padding-top: 55px;
+	padding-left: 100px;
+}
+.fnt-think{
+	font-size: 35pt;
+}
+.fnt-think2{
+	font-size: 15pt;
+	padding-right: 100px;
+}
+.btn-think{
+	padding: 10px 30px;
+	background-color: rgb(191, 150, 75);
+	color: #fff;
+}
+
+
+.fnt-dishes{
+	font-size:35pt;
+	padding-bottom: 50px;
+}
+.img-dish2{
+	padding-left: 40px;
+}
+.img-dish3{
+	padding-left: 60px;
+}
+.dishes{
+	padding: 100px;
+}
+.btn-4{
+	background-color: rgb(255, 255, 255);
+	color: #BF964B;
+	width: 300px;
+	height: 100px;
+}
+.grp4-bg{
+	background: url('../images/bg-4.png');
+	background-repeat: no-repeat;
+	background-position: right;
+	padding-top: 500px;
+	padding-bottom: 200px;
+}
+
+
+
+
+
+
